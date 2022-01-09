@@ -1,4 +1,5 @@
 ## Amazon Recommendation system
+![alt text](https://github.com/kothariar/Amazon-Recommendation-System/blob/master/Amazon.png)
 
 ### Context
 
